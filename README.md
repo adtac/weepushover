@@ -36,7 +36,7 @@ I could have added the feature in the other two plugins, but I don't know Ruby a
 #### License
 
 ```
-Copyright 2018 Commento, Inc.
+Copyright 2018 Adhityaa Chandrasekar
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
