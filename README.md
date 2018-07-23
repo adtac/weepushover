@@ -29,7 +29,7 @@ The original inspiration for this script was from LeftyBC's [`weebullet.py`](htt
 
 #### What's different?
 
-Yes, there are other Pushover plugins (see [`pushover.pl`](https://weechat.org/scripts/source/pushover.pl.html/) and [`pushover-weechat.rb`](https://github.com/jamtur01/pushover-weechat) for WeeChat. However, I chose to write my own because none of them had the `subscribe` feature: I'm a part of a low-traffic channel in which I'd like to receive a notification for *all* messages, irrespective of whether or not I'm highlighted.
+Yes, there are other Pushover plugins (see [`pushover.pl`](https://weechat.org/scripts/source/pushover.pl.html/) and [`pushover-weechat.rb`](https://github.com/jamtur01/pushover-weechat)) for WeeChat. However, I chose to write my own because none of them had the `subscribe` feature: I'm a part of a low-traffic channel in which I'd like to receive a notification for *all* messages, irrespective of whether or not I'm highlighted.
 
 I could have added the feature in the other two plugins, but I don't know Ruby and Perl that well. Plus, this way, I have complete control over features in the plugin.
 
